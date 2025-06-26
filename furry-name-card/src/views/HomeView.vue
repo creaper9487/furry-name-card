@@ -1,11 +1,9 @@
 <script setup lang="ts">
-
+import Introduction from '@/components/Introduction.vue';
 </script>
 
 <template>
-  <div class="fixed inset-0 flex justify-center items-center">
-    <div class="rounded-lg bg-slate-500 p-6">
-      meow owo
-    </div>
+  <div class="w-screen h-screen flex justify-center items-center">
+      <Introduction class="text-black"/>
   </div>
 </template>
