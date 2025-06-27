@@ -1,8 +1,8 @@
-<script>
+<script setup lang="ts">
 
 </script>
 <template>
-    <div class="rounded-lg bg-slate-500 p-6">
-        meow owo
+    <div class="text-3xl">
+        燊燊
     </div>
 </template>
